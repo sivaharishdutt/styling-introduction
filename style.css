@@ -1,4 +1,5 @@
 
+  
  .heading{
  	text-align: center;
     
@@ -6,8 +7,8 @@
 	
 
 	background-image: url( "https://www.walldevil.com/wallpapers/a24/titles-background-papers-wallpaper-resources-lol-images-wallpapers.jpg");
-   margin-left: 40%;
-   margin-right: 40%;
+   margin-left: 30%;
+   margin-right: 30%;
  }
 .something{
 	text-align: center;
@@ -17,12 +18,40 @@
 	text-align: middle;
 	margin: 0% 40% 40% 40%;
 }
-
+h3{
+	 margin-left: 30%;
+   margin-right: 30%;
+	border-color: black;
+	border-style: dotted;
+	font-family: Verdana;
+}
+h6{
+	font-family: Courier;
+}
 
 
  table,th,td{
  	border:1px solid black;
  	font-family: Arial, sans-serif;
-
- 
  }
+th{
+	color:black;
+}
+.something{
+	background-color: #F2F4F4;
+}
+.table{
+	background-color: #F2F4F4;
+}
+
+
+
+*{
+	border:1px solid block;
+	 
+}
+
+li,td{
+	color:#C0392B;
+}
+
